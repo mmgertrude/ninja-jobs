@@ -1,0 +1,7 @@
+{
+    "jobs": [
+        {"title": "Spesialingeniør", "id": 1, "details": "lorem"},
+        {"title": "Vue Developer", "id": 2, "details": "lorem"},
+        {"title": "avdelingsingeniør", "id": 3, "details": "lorem"}
+        ]
+    }
